@@ -1,0 +1,15 @@
+{
+    "menu.title" : "Snakes & Ladders",
+    "menu.play" : "Play!",
+    "menu.quit" : "Quit",
+    "menu.how_to" : "How To",
+    "menu.done" : "Done",
+    "menu.main_menu" : "Menu",
+    "menu.player_prompt" : "How many players?",
+    "menu.instructions" : "It's snakes & ladders <- really easy",
+    "play.roll_announce" : "%s rolled %s and %s!",
+    "play.roll_prompt" : "Player %s, press ENTER to roll",
+    "play.snake_hit" : "Oh no! Player %s hit a snake!",
+    "play.ladder_climb" : "Player %s climbed a ladder!",
+    "play.won" : "Player %s Won!"
+}
